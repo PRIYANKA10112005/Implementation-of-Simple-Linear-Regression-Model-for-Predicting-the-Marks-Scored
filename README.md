@@ -17,8 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: SANDHYA BN
-RegisterNumber: 212222040144
+Developed by: HIRUTHIK SUDHAKAR
+RegisterNumber: 212223240054
 */
 ```
 ```python
@@ -75,26 +75,32 @@ print("Root Mean Square Error = ",rmse)
 
 To Read Head and Tail Files
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/1608a2c9-31cd-4251-9c38-008e7c2ee39f)
 
 
 Compare Dataset
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/713447d8-ba83-4ce7-9882-168ed768c2b2)
 
 
 Predicted Value
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/4c86c629-ab8b-42a9-923d-d2b60a778c12)
 
 
 Graph For Training Set
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/359a3ab5-f963-4083-aa25-5e9ab7002b2e)
 
 
 Graph For Testing Set
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/a68f0377-2dc5-4723-bf8c-fa9a22fa9687)
 
 
 Error
 
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/4daf37cf-a940-482c-ab98-6ebedd8f4aab)
 
 
 ## Result:
