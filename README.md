@@ -75,32 +75,35 @@ print("Root Mean Square Error = ",rmse)
 
 To Read Head and Tail Files
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/1608a2c9-31cd-4251-9c38-008e7c2ee39f)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/5968514c-05e2-4d71-b132-b0acea5efd47)
+
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2)
 
 
 Compare Dataset
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/713447d8-ba83-4ce7-9882-168ed768c2b2)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/9d7409fe-cb21-4727-9bd1-365c85ab9f1a)
 
 
 Predicted Value
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/4c86c629-ab8b-42a9-923d-d2b60a778c12)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/44b39961-15f3-4ef1-b64f-01bd7c4fff12)
+
 
 
 Graph For Training Set
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/be5ed2ff-790c-4d0d-84c0-a230f9f4d2df)
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/359a3ab5-f963-4083-aa25-5e9ab7002b2e)
 
 
 Graph For Testing Set
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/a68f0377-2dc5-4723-bf8c-fa9a22fa9687)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/3871af46-764a-496a-ad7d-39a81d931dee)
 
 
 Error
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/4daf37cf-a940-482c-ab98-6ebedd8f4aab)
+![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/b2a0e793-2aef-4ae5-ad28-79ec7f2399be)
 
 
 ## Result:
