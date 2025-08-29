@@ -75,35 +75,41 @@ print("Root Mean Square Error = ",rmse)
 
 To Read Head and Tail Files
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/5968514c-05e2-4d71-b132-b0acea5efd47)
+<img width="189" height="149" alt="Screenshot 2025-08-29 153214" src="https://github.com/user-attachments/assets/51540895-4509-4a43-b675-e37b9d46b7af" />
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2)
+<img width="225" height="155" alt="Screenshot 2025-08-29 153307" src="https://github.com/user-attachments/assets/52e76fbd-6987-451f-bdbc-e0a0d61ec4fd" />
+
 
 
 Compare Dataset
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/9d7409fe-cb21-4727-9bd1-365c85ab9f1a)
+<img width="753" height="586" alt="Screenshot 2025-08-29 153347" src="https://github.com/user-attachments/assets/15dd9bc9-cc78-4671-a231-c1ff5cb8a1c3" />
+
 
 
 Predicted Value
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/44b39961-15f3-4ef1-b64f-01bd7c4fff12)
+<img width="833" height="76" alt="Screenshot 2025-08-29 153423" src="https://github.com/user-attachments/assets/90a07346-43af-4da7-9bc7-f70cacbddd4a" />
+
 
 
 
 Graph For Training Set
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/be5ed2ff-790c-4d0d-84c0-a230f9f4d2df)
+
+<img width="930" height="698" alt="Screenshot 2025-08-29 153500" src="https://github.com/user-attachments/assets/630df118-2fea-45af-84c4-0ac9157cf3e7" />
 
 
 
 Graph For Testing Set
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/3871af46-764a-496a-ad7d-39a81d931dee)
+<img width="893" height="702" alt="Screenshot 2025-08-29 153551" src="https://github.com/user-attachments/assets/9980206e-7a86-4276-a9e3-3ac66dd706b9" />
+
 
 
 Error
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145972122/b2a0e793-2aef-4ae5-ad28-79ec7f2399be)
+<img width="507" height="79" alt="Screenshot 2025-08-29 153635" src="https://github.com/user-attachments/assets/cd4403c9-252a-4008-b259-1aa2754d0bc4" />
+
 
 
 ## Result:
